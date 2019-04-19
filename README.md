@@ -2,7 +2,16 @@
 
 Klobuchar special page
 
+serial override template so it is wired into the new LCD config.
+This is mixing two workflows which is fucking stuff up.
 
+The gulp stuff does not update on localhost
+
+
+gulp publish --production
+
+break cache on css
+view source/ find bundle/ add cache-buster
 
 ## Application data
 
